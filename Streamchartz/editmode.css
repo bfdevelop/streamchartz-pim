@@ -1,0 +1,13 @@
+#content .streamchartsEditForm {
+	background: #F7F5FA;
+    padding: 10px;
+}
+#content .streamchartsEditForm h2 {
+	margin-top: 0;
+}
+#content .streamchartsEditForm .pimcore_editable.pimcore_tag_input {
+	background: #FFF;
+	line-height: 20px;
+	padding: 5px 0;
+	min-height: 20px;
+}
